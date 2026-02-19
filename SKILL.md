@@ -4,7 +4,8 @@ description: Identify how anonymous public opinion (das Man / "the They") has al
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.3767
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - das-man-analysis
 - writing
